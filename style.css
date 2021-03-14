@@ -1,0 +1,32 @@
+.tree{
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 400px;
+    
+}
+
+p{
+    margin: 0px;
+    cursor: pointer;
+}
+
+p:hover{
+    opacity: .6;
+}
+
+ul{
+    list-style: none;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: yellow;
+}
